@@ -1,7 +1,13 @@
-# PhotoCastle v1.0
-PhotoCastle is the updated and advanced photo editor that can do just as much as photoshop and even better, yet be as simple as the paint app.
+# PhotoCastle v1.0 #
+## Quick Links to Content ##
+- [Project PowerPoint Presentation](/docs/Photo Castle Presentation.pptx)
+- [Project Defense Doc](/docs/Senior Project Defense.docx)
+- [Project Requirements Doc](/docs/Senior project requirements doc.docx)
+- [Project Proposal Doc](/docs/Senior project proposal.md)
+- [Project Test Plan Doc](/docs/Senior test plan.docx)
 
-## Compile/Deploy
+## What to install for PhotoCastle v1.0 ##
 Make sure to install qtcreator and the libraries they recommend
-qmake Photocastle.pro
 
+## How to run Photocastle.pro ##
+qmake Photocastle.pro
