@@ -1,6 +1,6 @@
 # PhotoCastle v1.0 #
 ## Quick Links to Content ##
-- [Project PowerPoint Presentation](/docs/Photo Castle Presentation.pptx)
+- [Project PowerPoint Presentation](/docs/Photo-Castle-Presentation.pptx)
 - [Project Defense Doc](/docs/Senior Project Defense.docx)
 - [Project Requirements Doc](/docs/Senior project requirements doc.docx)
 - [Project Proposal Doc](/docs/Senior project proposal.md)
